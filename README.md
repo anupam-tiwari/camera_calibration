@@ -1,8 +1,3 @@
-My Results:
-
-
-
-
 About the challenge: Welcome to the comma.ai Calibration Challenge!
 ======
 
